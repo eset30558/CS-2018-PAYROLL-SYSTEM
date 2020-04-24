@@ -1,0 +1,89 @@
+C:\Users\NORBERTO VILLAGONZA\documents\visual studio 2010\Projects\Payroll Finals\Payroll Finals\bin\Debug\Payroll Finals.exe
+C:\Users\NORBERTO VILLAGONZA\documents\visual studio 2010\Projects\Payroll Finals\Payroll Finals\bin\Debug\Payroll Finals.pdb
+C:\Users\NORBERTO VILLAGONZA\documents\visual studio 2010\Projects\Payroll Finals\Payroll Finals\bin\Debug\Payroll Finals.xml
+C:\Users\NORBERTO VILLAGONZA\documents\visual studio 2010\Projects\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll_Finals.Form1.resources
+C:\Users\NORBERTO VILLAGONZA\documents\visual studio 2010\Projects\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll_Finals.FrmMain.resources
+C:\Users\NORBERTO VILLAGONZA\documents\visual studio 2010\Projects\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll_Finals.Resources.resources
+C:\Users\NORBERTO VILLAGONZA\documents\visual studio 2010\Projects\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll Finals.vbproj.GenerateResource.Cache
+C:\Users\NORBERTO VILLAGONZA\documents\visual studio 2010\Projects\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll Finals.exe
+C:\Users\NORBERTO VILLAGONZA\documents\visual studio 2010\Projects\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll Finals.xml
+C:\Users\NORBERTO VILLAGONZA\documents\visual studio 2010\Projects\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll Finals.pdb
+C:\Users\NORBERTO VILLAGONZA\documents\visual studio 2010\Projects\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll_Finals.Employees.resources
+C:\Users\NORBERTO VILLAGONZA\documents\visual studio 2010\Projects\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll_Finals.NewEmployee.resources
+C:\Users\NORBERTO VILLAGONZA\documents\visual studio 2010\Projects\Payroll Finals\Payroll Finals\bin\Debug\Payroll Finals.exe.config
+C:\Users\NORBERTO VILLAGONZA\documents\visual studio 2010\Projects\Payroll Finals\Payroll Finals\bin\Debug\Payroll Garena.accdb
+C:\Users\NORBERTO VILLAGONZA\documents\visual studio 2010\Projects\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll_Finals.PayrollCompute.resources
+C:\Users\NORBERTO VILLAGONZA\documents\visual studio 2010\Projects\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll_Finals.Salaries.resources
+D:\Payroll Finals\Payroll Finals\bin\Debug\Payroll Finals.exe.config
+D:\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll Finals.exe
+D:\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll Finals.xml
+D:\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll Finals.pdb
+D:\Payroll Finals\Payroll Finals\bin\Debug\Payroll Garena.accdb
+D:\Payroll Finals\Payroll Finals\bin\Debug\Payroll Finals.exe
+D:\Payroll Finals\Payroll Finals\bin\Debug\Payroll Finals.pdb
+D:\Payroll Finals\Payroll Finals\bin\Debug\Payroll Finals.xml
+D:\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll_Finals.Employees.resources
+D:\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll_Finals.Form1.resources
+D:\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll_Finals.FrmMain.resources
+D:\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll_Finals.Resources.resources
+D:\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll_Finals.NewEmployee.resources
+D:\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll_Finals.PayrollCompute.resources
+D:\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll_Finals.Salaries.resources
+D:\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll Finals.vbproj.GenerateResource.Cache
+D:\Payroll Finals\Payroll Finals\bin\Debug\Interop.WMPLib.dll
+D:\Payroll Finals\Payroll Finals\bin\Debug\AxInterop.WMPLib.dll
+D:\Payroll Finals\Payroll Finals\obj\x86\Debug\Interop.WMPLib.dll
+D:\Payroll Finals\Payroll Finals\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll Finals.vbproj.ResolveComReference.cache
+E:\Payroll Finals\Payroll Finals\bin\Debug\Payroll Finals.exe.config
+E:\Payroll Finals\Payroll Finals\obj\x86\Debug\Interop.WMPLib.dll
+E:\Payroll Finals\Payroll Finals\obj\x86\Debug\AxInterop.WMPLib.dll
+E:\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll Finals.vbproj.ResolveComReference.cache
+E:\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll Finals.exe
+E:\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll Finals.xml
+E:\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll Finals.pdb
+E:\Payroll Finals\Payroll Finals\bin\Debug\Payroll Garena.accdb
+E:\Payroll Finals\Payroll Finals\bin\Debug\Payroll Finals.exe
+E:\Payroll Finals\Payroll Finals\bin\Debug\Payroll Finals.pdb
+E:\Payroll Finals\Payroll Finals\bin\Debug\Payroll Finals.xml
+E:\Payroll Finals\Payroll Finals\bin\Debug\Interop.WMPLib.dll
+E:\Payroll Finals\Payroll Finals\bin\Debug\AxInterop.WMPLib.dll
+E:\Payroll Finals\Payroll Finals\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll_Finals.Employees.resources
+E:\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll_Finals.Form1.resources
+E:\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll_Finals.FrmMain.resources
+E:\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll_Finals.Resources.resources
+E:\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll_Finals.NewEmployee.resources
+E:\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll_Finals.PayrollCompute.resources
+E:\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll_Finals.Salaries.resources
+E:\Payroll Finals\Payroll Finals\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Payroll Finals\Payroll Finals\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Payroll Finals\Payroll Finals\bin\Debug\Payroll Finals.exe.manifest
+D:\Payroll Finals\Payroll Finals\bin\Debug\Payroll Finals.application
+D:\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll Finals.exe.manifest
+D:\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll Finals.application
+C:\Users\SHINICHI_KUDO_28\Desktop\Payroll Finals\Payroll Finals\bin\Debug\Payroll Finals.exe.config
+C:\Users\SHINICHI_KUDO_28\Desktop\Payroll Finals\Payroll Finals\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\SHINICHI_KUDO_28\Desktop\Payroll Finals\Payroll Finals\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\SHINICHI_KUDO_28\Desktop\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll Finals.vbproj.ResolveComReference.cache
+C:\Users\SHINICHI_KUDO_28\Desktop\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll Finals.exe
+C:\Users\SHINICHI_KUDO_28\Desktop\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll Finals.xml
+C:\Users\SHINICHI_KUDO_28\Desktop\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll Finals.pdb
+C:\Users\SHINICHI_KUDO_28\Desktop\Payroll Finals\Payroll Finals\bin\Debug\Payroll Garena.accdb
+C:\Users\SHINICHI_KUDO_28\Desktop\Payroll Finals\Payroll Finals\bin\Debug\Payroll Finals.exe.manifest
+C:\Users\SHINICHI_KUDO_28\Desktop\Payroll Finals\Payroll Finals\bin\Debug\Payroll Finals.application
+C:\Users\SHINICHI_KUDO_28\Desktop\Payroll Finals\Payroll Finals\bin\Debug\Payroll Finals.exe
+C:\Users\SHINICHI_KUDO_28\Desktop\Payroll Finals\Payroll Finals\bin\Debug\Payroll Finals.pdb
+C:\Users\SHINICHI_KUDO_28\Desktop\Payroll Finals\Payroll Finals\bin\Debug\Payroll Finals.xml
+C:\Users\SHINICHI_KUDO_28\Desktop\Payroll Finals\Payroll Finals\bin\Debug\Interop.WMPLib.dll
+C:\Users\SHINICHI_KUDO_28\Desktop\Payroll Finals\Payroll Finals\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\SHINICHI_KUDO_28\Desktop\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll_Finals.Employees.resources
+C:\Users\SHINICHI_KUDO_28\Desktop\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll_Finals.Form1.resources
+C:\Users\SHINICHI_KUDO_28\Desktop\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll_Finals.FrmMain.resources
+C:\Users\SHINICHI_KUDO_28\Desktop\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll_Finals.Resources.resources
+C:\Users\SHINICHI_KUDO_28\Desktop\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll_Finals.NewEmployee.resources
+C:\Users\SHINICHI_KUDO_28\Desktop\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll_Finals.PayrollCompute.resources
+C:\Users\SHINICHI_KUDO_28\Desktop\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll_Finals.Salaries.resources
+C:\Users\SHINICHI_KUDO_28\Desktop\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll Finals.vbproj.GenerateResource.Cache
+C:\Users\SHINICHI_KUDO_28\Desktop\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll Finals.exe.manifest
+C:\Users\SHINICHI_KUDO_28\Desktop\Payroll Finals\Payroll Finals\obj\x86\Debug\Payroll Finals.application
